@@ -1,0 +1,1 @@
+Conky configuration from Peux OS KDE 21.03. You'll have to correct the path in the autostart/wm-configuration. The repository can be found at https://github.com/peux-os-sic/Peux-Conky-3.
